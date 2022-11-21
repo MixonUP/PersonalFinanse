@@ -1,0 +1,8 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ñƒù€ýÿÿÿÿ
+Q
+java:S1610"6Convert the abstract class "Common" into an interface.(¯ƒ„´ùÿÿÿÿ
+T
+java:S5993"9Change the visibility of this constructor to "protected".(Ÿ£ø·øÿÿÿÿ
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(¯ƒ„´ùÿÿÿÿ
